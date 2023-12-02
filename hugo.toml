@@ -1,4 +1,4 @@
 baseURL = 'https://joinreos.com/'
 languageCode = 'en-us'
 title = 'Join REOS'
-theme = 'ananke'
+theme = 'PaperMod'
