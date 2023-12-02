@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Join REOS</title>
+    <link>https://joinreos.com/docs/</link>
+    <description>Recent content in Docs on Join REOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Dec 2023 11:24:02 -0800</lastBuildDate>
+    <atom:link href="https://joinreos.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page 1</title>
+      <link>https://joinreos.com/docs/page-1/</link>
+      <pubDate>Sat, 02 Dec 2023 11:24:02 -0800</pubDate>
+      <guid>https://joinreos.com/docs/page-1/</guid>
+      <description>About Page Join REOS is a dummy product for now.</description>
+    </item>
+  </channel>
+</rss>
